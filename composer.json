@@ -13,5 +13,13 @@
     "psr-4": {
       "Ihb\\ModuleCreator\\": ""
     }
+  },
+  "extra": {
+    "map": [
+      [
+        "*",
+        "Ihb/ModuleCreator"
+      ]
+    ]
   }
 }
