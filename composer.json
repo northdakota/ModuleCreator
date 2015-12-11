@@ -9,10 +9,7 @@
   "autoload": {
     "files": [
       "registration.php"
-    ],
-    "psr-4": {
-      "Ihb\\ModuleCreator\\": ""
-    }
+    ]
   },
   "extra": {
     "map": [
