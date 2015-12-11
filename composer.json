@@ -17,6 +17,7 @@
   "extra": {
     "map": [
       ["*", "Ihb/ModuleCreator"]
-    ]
+    ],
+    "magento-deploystrategy-overwrite": "symlink"
   }
 }
