@@ -1,5 +1,5 @@
 {
-  "name": "ihb/module-creator",
+  "name": "ihb/modulecreator",
   "description": "Magento 2 Module Creator",
   "type": "magento2-module",
   "version": "100.0.0",
