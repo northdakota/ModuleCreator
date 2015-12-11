@@ -1,0 +1,17 @@
+{
+  "name": "ihb/ModuleCreator",
+  "description": "Magento 2 Module Creator",
+  "type": "magento2-module",
+  "version": "100.0.0",
+  "license": [
+    "proprietary"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Ihb\\ModuleCreator\\": ""
+    }
+  }
+}
